@@ -30,6 +30,8 @@ module Data.Generic.HKD.Types
   , GHKD_
 
   , Tuple (..)
+  , GFunctorB (..)
+  , GShow (..)
   ) where
 
 import Barbies (ConstraintsB (..), FunctorB (..), ApplicativeB (..), TraversableB (..))
